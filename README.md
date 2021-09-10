@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kennethaakonsen
 - 👀 I’m interested in technology, gaming, music, food, books and nature.
-- 🌱 I’m currently learning about CyberSecurity and programming with Python. Doing a Bachelor degree.
+- 🌱 I’m currently learning about Cyber Security and programming with Python. Doing a Bachelor degree.
 - 📫 How to reach me: Kennethaakonsen@gmail.com
 
 <!---
